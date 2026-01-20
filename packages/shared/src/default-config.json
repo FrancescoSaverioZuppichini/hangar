@@ -1,0 +1,10 @@
+{
+  "ui": {
+    "port": 3000
+  },
+  "defaults": {
+    "template": "base",
+    "timeoutMinutes": 30,
+    "autoBranch": true
+  }
+}
